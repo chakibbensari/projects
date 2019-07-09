@@ -7,6 +7,7 @@
 
   <body>
 		<?php
+			// Modification de ibtissem
 		  // Désactivation des erreur en notice
 		  error_reporting(E_ERROR | E_WARNING);	
 		  include_once('TestClass.php');
