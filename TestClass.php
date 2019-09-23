@@ -139,8 +139,8 @@ ADMIN_FORM;
     return $this->buildDB();
   }
 
-// Création de la table testDB 
-  private function buildDB() {
+// Création de la table testDB.. 
+  private function buildDB() { 
     $sql = <<<MySQL_QUERY
         CREATE TABLE IF NOT EXISTS testDB (
             title	VARCHAR(150),
