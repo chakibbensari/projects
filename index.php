@@ -2,7 +2,7 @@
 <html lang="en">
 
   <head>
-    <title>Test Class</title>
+    <title>Test Class Title</title>
   </head>
 
   <body>
