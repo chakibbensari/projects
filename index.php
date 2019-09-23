@@ -6,6 +6,7 @@
   </head>
 
   <body>
+	<h1>My Title</h1>
 		<?php
 			// Modification de ibtissem
 		  // Désactivation des erreur en notice
