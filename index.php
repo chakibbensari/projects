@@ -7,6 +7,7 @@
 
   <body>
 	<h1>My Title</h1>
+	<h2>Mon deuxième titre</h2>
 		<?php
 			// Modification de ibtissem
 		  // Désactivation des erreur en notice
